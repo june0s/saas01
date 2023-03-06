@@ -1,0 +1,17 @@
+log/
+.history/
+.idea/
+.vscode/
+*.iml
+dist/
+node_modules/
+coverage/
+.DS_Store
+yarn-error.log
+*.log
+*.log.save
+__snapshots__/
+*.map
+# yarn.lock
+# src/static/vendors/jquery/
+src/static/vendors/uikit/
